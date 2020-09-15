@@ -1,5 +1,4 @@
-# Static Website
-http://www.ai-genie.com.s3-website.ap-south-1.amazonaws.com/
+
 
 # Simple Baselines for Human Pose Estimation and Tracking
 
